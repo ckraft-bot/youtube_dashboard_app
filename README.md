@@ -8,10 +8,10 @@ __Reading Data__: The script scrapes Youtube for data.
 
 __UI__: Built on streamlit
 ![top](/yt_dash_1.png)
-Format: ![top half of the app](url)
+Format: ![top half of the app](/yt_dash_1.png)
 
 ![bpttom](/yt_dash_2.png)
-Format: ![top half of the app](url)
+Format: ![top half of the app](/yt_dash_2.png))
 
 __Dependencies__:
 - google-api-core: This package provides the core functionality for Google API client libraries.
