@@ -7,6 +7,8 @@ __Configuration__: Follow this guide to configure the [youtube API](https://deve
 __Reading Data__: The script scrapes Youtube for data.
 
 __UI__: Built on streamlit
+yt_dash_1.png
+
 
 __Dependencies__:
 - google-api-core: This package provides the core functionality for Google API client libraries.
