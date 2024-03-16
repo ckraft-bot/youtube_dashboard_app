@@ -3,7 +3,9 @@
 This Python program is an interactive dashboard to keep track of some of my favorite youtube channels. Here's a breakdown of its functionality:
 
 __Configuration__: Follow this guide to configure the [youtube API](https://developers.google.com/youtube/v3/getting-started).
+
 __Reading Data__: The script scrapes Youtube for data.
+
 __UI__: Built on streamlit
 
 __Dependencies__:
